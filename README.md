@@ -35,6 +35,8 @@ Install the color preset `andon.terminal`.
 
 ## Screenshots
 
+![screenshot](https://github.com/muratas/andon/raw/master/doc/images/screenshot01.png)
+
 ## License
 This Software is released under the MIT license.
 
