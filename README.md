@@ -1,6 +1,6 @@
 # andon.vim
 Colorscheme for Vim.  
-Inspired by scenery of kyoto.
+See also: [andon](https://github.com/muratas/andon).
 
 ## Installation
 
