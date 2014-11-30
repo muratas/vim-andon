@@ -26,12 +26,12 @@ However, Due to the limited 256 palette, colours in Vim and gVim will still be n
 For iTerm2 users:  
 Install the color preset `andon.itermcolors`.
 
-     https://github.com/muratas/andon/iterm2/andon.itermcolors
+     https://github.com/muratas/andon/blob/master/iterm2/andon.itermcolors
 
 For OSX Terminal.app users:  
 Install the color preset `andon.terminal`.
 
-     https://github.com/muratas/andon/osx-terminal/andon.terminal
+     https://github.com/muratas/andon/blob/master/osx-terminal/andon.terminal
 
 ## Screenshots
 
