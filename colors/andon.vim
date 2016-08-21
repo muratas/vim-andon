@@ -152,12 +152,12 @@ exe "hi! ColorColumn"   .s:fg_none        .s:bg_black       .s:fmt_none
 exe "hi! Cursor"        .s:fg_base        .s:bg_white       .s:fmt_none
 " CursorIM
 " CursorColumn
-exe "hi! CursorLine"    .s:fg_none        .s:bg_black       .s:fmt_none
+exe "hi! CursorLine"    .s:fg_none        .s:bg_none        .s:fmt_none
 exe "hi! Directory"     .s:fg_directory   .s:bg_none        .s:fmt_none
-exe "hi! DiffAdd"       .s:fg_foreground  .s:bg_moss        .s:fmt_none
-exe "hi! DiffChange"    .s:fg_foreground  .s:bg_leaf        .s:fmt_none
-exe "hi! DiffDelete"    .s:fg_foreground  .s:bg_nanten      .s:fmt_none
-exe "hi! DiffText"      .s:fg_foreground  .s:bg_directory   .s:fmt_none
+exe "hi! DiffAdd"       .s:fg_black       .s:bg_moss        .s:fmt_none
+exe "hi! DiffChange"    .s:fg_black       .s:bg_leaf        .s:fmt_none
+exe "hi! DiffDelete"    .s:fg_black       .s:bg_nanten      .s:fmt_none
+exe "hi! DiffText"      .s:fg_black       .s:bg_directory   .s:fmt_none
 exe "hi! ErrorMsg"      .s:fg_rouge       .s:bg_none        .s:fmt_bold
 exe "hi! VertSplit"     .s:fg_wall        .s:bg_none        .s:fmt_none
 exe "hi! Folded"        .s:fg_comment     .s:bg_none        .s:fmt_none
