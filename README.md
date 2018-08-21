@@ -4,15 +4,19 @@ See also: [andon](https://github.com/muratas/andon).
 
 ## Installation
 
-Two options for installation: manual or Neobundle
+Three options for installation: dein.vim, Neobundle or manual.
+
+dein.vim Installation (recommended):  
+1. Install the [dein.vim](https://github.com/Shougo/dein.vim).  
+2. Add the plugin: `call dein#add('muratas/vim-andon')`.
+
+Neobundle Installation:  
+1. Install the [Neobundle](https://github.com/Shougo/neobundle.vim).  
+2. Add the bundle: `Neobundle 'muratas/vim-andon'`.
 
 Manual Installation:  
 1. Download the andon distribution and unarchive the file.  
 2. Move `andon.vim` to your `.vim/colors` directory.
-
-Neobundle Installation (recommended):  
-1. Install the [Neobundle](https://github.com/Shougo/neobundle.vim).  
-2. Add the bundle: `Neobundle 'muratas/vim-andon'`.
 
 After install, put the following two lines in your `.vimrc`.
 
